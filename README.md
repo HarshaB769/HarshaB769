@@ -66,6 +66,13 @@
 
 <br/>
 
+<div align="center">
+
+<h2>🐍 My Contributions 🐍</h2>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HarshaB769/HarshaB769/output/github-contribution-grid-snake.svg" />
+
+</div>
 
 <br/>
 
@@ -75,8 +82,11 @@
 
 <img width="390" src="https://streak-stats.demolab.com?user=HarshaB769&count_private=true&theme=tokyonight&border_radius=10"/>
 
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=HarshaB769&count_private=true&show_icons=true&theme=tokyonight&rank_icon=github&border_radius=10"/>
 
 <br>
+
+<img width="330" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarshaB769&layout=compact&theme=tokyonight&border_radius=10"/>
 
 </div>
 
