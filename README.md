@@ -40,9 +40,10 @@
 <img src="https://user-images.githubusercontent.com/84305637/201383216-78611d85-9771-42ff-8a9d-e5dd1d5655af.png" width="70"/>
 </a>
 
-<a href="https://harshab-portfolio.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-blue?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
+ <a href="https://harshab-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-purple?style=for-the-badge&logo=internet-explorer&logoColor=white&labelColor=8a2be2&color=8a2be2"
+         style="margin:10px; height:60px;" />
+  </a>
 
 </div>
 
